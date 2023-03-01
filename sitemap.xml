@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/about/</loc>
+  </url><url>
+    <loc>/articles/</loc>
+  </url><url>
+    <loc>/articles/article/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/articles/article-intern/</loc>
+  </url><url>
+    <loc>/</loc>
+  </url><url>
+    <loc>/portfolios/article-kopi/</loc>
+  </url><url>
+    <loc>/portfolios/article-olaf/</loc>
+  </url><url>
+    <loc>/portfolios/article-hima/</loc>
+  </url><url>
+    <loc>/portfolios/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>
